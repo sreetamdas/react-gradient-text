@@ -30,7 +30,7 @@
   "homepage": "http://arlando.github.io/react-gradient-text#readme",
   "author": "Arlando Battle (https://github.com/arlando)",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "babel": "6.5.2",
     "babel-core": "6.7.2",
     "babel-loader": "6.2.4",
